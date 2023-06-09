@@ -14,7 +14,7 @@ export default function ProductCard({ product }) {
                     See More -&gt;
                 </Link>
                 <div>
-                    <span className="pill">{product.category}</span>
+                    <span className="pill">{product.category} </span>
                 </div>
             </footer>
         </article>
